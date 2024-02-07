@@ -1,2 +1,14 @@
-# projeto-da-lampada-java
-Exercício da criação de duas classes que representam um programa que instancia um objeto e utiliza seus métodos.
+# Sistema: Projeto da Lâmpada!
+- Data: 07/02/2024
+- Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso CDB - Java Back-End
+- O que é: Um sistema de baixa complexidade da criação de duas classes que representam um programa que instancia um objeto e utiliza seus métodos.
+- Temas envolvidos:
+  - Variáveis;
+  - Saída de dados: System.out.println();
+  - Criação de objetos;
+  - Criação de classes;
+  - Passagem de parâmetros na criação de objetos;
+  - Método construtor;
+  - Modificadores de acesso: 'private' e 'public';
+  - Chamada de métodos na classe principal;
+  - Métodos getters e métodos setters;
